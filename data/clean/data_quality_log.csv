@@ -1,0 +1,24 @@
+step,dataset,rule,rows_affected,orders_affected,value_usd,action
+1,orders,Raw order-line rows loaded,20513,10468.0,,input
+2,orders,Currency code had stray whitespace / lowercase,60,,,fixed (trim + upper-case)
+3,orders,Email had leading spaces / upper-case,40,,,fixed (trim + lower-case)
+4,orders,Timestamps in UTC 'Z' format,14423,,,parsed
+5,orders,Timestamps with explicit UTC offset (e.g. -04:00),5017,,,converted to UTC
+6,orders,"Naive timestamps (legacy export, no zone)",1073,,,"assumed store-local America/New_York, converted to UTC"
+7,orders,Unparseable timestamps,0,,,removed
+8,orders,Orders whose lines disagree on timestamp,0,0.0,,check only (0 expected)
+9,orders,"Duplicated order lines (same order_id + line_number, identical content)",165,85.0,12886.95,removed (value = gross sales it would have double-counted)
+10,orders,Staff test orders (email @northwind-test.*),12,12.0,384.0,removed
+11,orders,Voided orders (payment never captured),125,60.0,11054.01,removed
+12,orders,Non-positive quantity on a sale line (manual adjustment keyed into wrong field),37,37.0,2385.98,quarantined: line excluded from all metrics (cannot tell if return or typo); see data/clean/quarantine.csv
+13,orders,Missing email recovered from another line of the same order,115,115.0,,fixed
+14,orders,"Missing email, not recoverable (guest checkout / export glitch)",24,23.0,,"kept in revenue & order counts; excluded from customer metrics (repeat rate, cohorts, CAC)"
+15,orders,Unknown currency code,0,,,removed
+16,orders,CAD lines converted to USD at monthly finance rate,4493,2320.0,369131.26,converted (value = USD gross sales)
+17,orders,Refund larger than line net value,0,,,check only (0 expected)
+18,orders,SKU not in product catalog,0,,,check only (0 expected)
+19,orders,Clean order lines written,20174,10386.0,1452336.68,output (value = net revenue USD)
+20,ad spend,Raw ad-spend rows loaded,2749,,289087.81,input
+21,ad spend,Duplicated spend rows (date + campaign),9,,480.59,removed
+22,ad spend,Negative spend,0,,,removed
+23,ad spend,Clean ad-spend rows written,2740,,288607.22,output

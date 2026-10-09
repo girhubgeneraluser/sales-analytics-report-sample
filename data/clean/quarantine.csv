@@ -1,0 +1,38 @@
+order_id,line_number,created_at,customer_email,billing_country,currency,sku,product_title,quantity,unit_price,line_discount,discount_code,refunded_amount,financial_status,source_channel,created_at_utc,order_date,month,fx,gross_usd
+12402,1,2026-08-10T23:22:36Z,jamie.05247@inbox.example.com,US,USD,DEC-003,Soy Candle - Cedar,-1,32.0,4.8,VIP15,0.0,paid,email,2026-08-10 23:22:36+00:00,2026-08-10,2026-08,1.0,32.0
+4039,1,2025-09-27T15:27:40-04:00,drew.01350@mail.example.net,US,USD,KIT-003,Linen Tea Towels (3),-1,24.0,0.0,,0.0,paid,organic,2025-09-27 19:27:40+00:00,2025-09-27,2025-09,1.0,24.0
+5818,2,2026-06-26T22:43:34Z,emerson.02137@example.org,US,USD,BED-002,Percale Sheet Set - Queen,-1,129.0,0.0,,0.0,paid,email,2026-06-26 22:43:34+00:00,2026-06-26,2026-06,1.0,129.0
+9800,1,2025-12-24T14:03:59Z,reese.03975@inbox.example.com,US,USD,BED-002,Percale Sheet Set - Queen,-1,129.0,0.0,,0.0,paid,google,2025-12-24 14:03:59+00:00,2025-12-24,2025-12,1.0,129.0
+5450,1,2026-01-13T01:48:40Z,casey.01964@example.com,US,USD,KIT-003,Linen Tea Towels (3),-1,24.0,0.0,,0.0,paid,email,2026-01-13 01:48:40+00:00,2026-01-12,2026-01,1.0,24.0
+8493,2,2025-11-28 16:07:06,alex.03380@example.com,US,USD,KIT-003,Linen Tea Towels (3),-1,24.0,0.0,,0.0,paid,meta,2025-11-28 21:07:06+00:00,2025-11-28,2025-11,1.0,24.0
+3100,1,2025-06-16T08:05:42-04:00,taylor.00943@inbox.example.com,US,USD,BED-005,Down-Alt Pillow (2),-1,79.0,7.9,WELCOME10,0.0,paid,google,2025-06-16 12:05:42+00:00,2025-06-16,2025-06,1.0,79.0
+16031,2,2026-08-30T23:14:08Z,rowan.07231@inbox.example.com,US,USD,KIT-003,Linen Tea Towels (3),-1,24.0,0.0,,0.0,paid,meta,2026-08-30 23:14:08+00:00,2026-08-30,2026-08,1.0,24.0
+11446,2,2026-03-03T16:44:43Z,emerson.04777@example.org,US,USD,BED-002,Percale Sheet Set - Queen,-1,129.0,0.0,,0.0,paid,direct,2026-03-03 16:44:43+00:00,2026-03-03,2026-03,1.0,129.0
+10601,1,2026-01-24 18:36:45,logan.04353@example.org,US,USD,BAT-005,Hand Towels (2),-1,32.0,0.0,,0.0,paid,meta,2026-01-24 23:36:45+00:00,2026-01-24,2026-01,1.0,32.0
+2958,3,2025-06-10T15:54:20-04:00,emerson.00877@example.org,US,USD,BAT-001,Turkish Cotton Towel Set,-1,89.0,8.9,WELCOME10,0.0,paid,meta,2025-06-10 19:54:20+00:00,2025-06-10,2025-06,1.0,89.0
+1171,1,2025-11-11T10:01:56-05:00,avery.00069@example.org,US,USD,BED-005,Down-Alt Pillow (2),-1,79.0,0.0,,0.0,paid,meta,2025-11-11 15:01:56+00:00,2025-11-11,2025-11,1.0,79.0
+11574,1,2026-03-25T21:15:41Z,emerson.04837@example.org,US,USD,BAT-005,Hand Towels (2),-1,32.0,6.4,SPRING20,0.0,paid,email,2026-03-25 21:15:41+00:00,2026-03-25,2026-03,1.0,32.0
+14173,1,2026-06-27T18:35:07Z,avery.06169@example.org,US,USD,BED-002,Percale Sheet Set - Queen,-1,129.0,0.0,,129.0,partially_refunded,google,2026-06-27 18:35:07+00:00,2026-06-27,2026-06,1.0,129.0
+7677,1,2025-11-14T21:50:34Z,emerson.02997@example.org,CA,CAD,KIT-002,Cast Iron Skillet 10in,-1,65.99,0.0,,0.0,paid,meta,2025-11-14 21:50:34+00:00,2025-11-14,2025-11,0.7367,48.614833
+12669,1,2026-04-20T13:22:07-04:00,jordan.05382@mail.example.net,US,USD,KIT-001,Stoneware Dinner Plate Set (4),-1,64.0,12.8,SPRING20,0.0,paid,google,2026-04-20 17:22:07+00:00,2026-04-20,2026-04,1.0,64.0
+11697,2,2026-03-12T18:24:26Z,finley.04898@mail.example.net,US,USD,BAT-001,Turkish Cotton Towel Set,-1,89.0,0.0,,0.0,paid,direct,2026-03-12 18:24:26+00:00,2026-03-12,2026-03,1.0,89.0
+5570,2,2025-09-10T12:20:23Z,reese.02015@inbox.example.com,US,USD,LGT-005,Glass Hurricane Lantern,-1,44.0,4.4,WELCOME10,0.0,paid,organic,2025-09-10 12:20:23+00:00,2025-09-10,2025-09,1.0,44.0
+14451,1,2026-06-25T19:12:48Z,parker.06314@mail.example.net,US,USD,KIT-005,Glass Storage Jars (6),-2,39.0,0.0,,0.0,paid,google,2026-06-25 19:12:48+00:00,2026-06-25,2026-06,1.0,78.0
+11320,3,2026-02-27T13:54:31-05:00,finley.04718@mail.example.net,US,USD,KIT-005,Glass Storage Jars (6),-1,39.0,3.9,WELCOME10,0.0,paid,google,2026-02-27 18:54:31+00:00,2026-02-27,2026-02,1.0,39.0
+5231,2,2025-08-31T17:42:02Z,emerson.01877@example.org,US,USD,DEC-003,Soy Candle - Cedar,-1,32.0,3.2,WELCOME10,0.0,paid,meta,2025-08-31 17:42:02+00:00,2025-08-31,2025-08,1.0,32.0
+15144,2,2026-09-17T13:05:27-04:00,casey.06704@example.com,US,USD,KIT-001,Stoneware Dinner Plate Set (4),-1,64.0,9.6,VIP15,0.0,paid,email,2026-09-17 17:05:27+00:00,2026-09-17,2026-09,1.0,64.0
+10353,3,2026-09-10T11:40:20Z,drew.04230@mail.example.net,US,USD,BED-005,Down-Alt Pillow (2),-1,79.0,0.0,,0.0,paid,meta,2026-09-10 11:40:20+00:00,2026-09-10,2026-09,1.0,79.0
+10493,1,2026-01-18T14:40:10-05:00,hayden.04299@inbox.example.com,US,USD,DEC-004,Soy Candle - Fig,-1,32.0,0.0,,0.0,paid,meta,2026-01-18 19:40:10+00:00,2026-01-18,2026-01,1.0,32.0
+13374,2,2026-05-15T16:30:09Z,logan.05733@example.org,US,USD,BAT-002,Waffle Bath Robe,-1,98.0,0.0,,0.0,paid,meta,2026-05-15 16:30:09+00:00,2026-05-15,2026-05,1.0,98.0
+6276,1,2025-10-06T13:38:19Z,riley.02346@mail.example.net,US,USD,BED-001,Linen Duvet Cover - Queen,-1,189.0,0.0,,0.0,paid,meta,2025-10-06 13:38:19+00:00,2025-10-06,2025-10,1.0,189.0
+15127,1,2026-07-25T09:56:44Z,skyler.06696@example.com,US,USD,KIT-005,Glass Storage Jars (6),-1,39.0,0.0,,0.0,paid,meta,2026-07-25 09:56:44+00:00,2026-07-25,2026-07,1.0,39.0
+6421,2,2026-01-22T15:47:44-05:00,quinn.02408@example.com,US,USD,KIT-003,Linen Tea Towels (3),-1,24.0,3.6,VIP15,0.0,paid,direct,2026-01-22 20:47:44+00:00,2026-01-22,2026-01,1.0,24.0
+9865,1,2026-04-03T22:44:38Z,emerson.03997@example.org,CA,CAD,DEC-003,Soy Candle - Cedar,-1,43.99,0.0,,0.0,paid,email,2026-04-03 22:44:38+00:00,2026-04-03,2026-04,0.7406,32.578994
+9255,1,2025-12-11T17:06:48-05:00,rowan.03731@inbox.example.com,CA,CAD,BED-003,Percale Sheet Set - King,-1,202.99,0.0,,0.0,paid,organic,2025-12-11 22:06:48+00:00,2025-12-11,2025-12,0.7371,149.623929
+10260,1,2026-01-07T23:34:31Z,casey.04184@example.com,US,USD,BED-008,Silk Sleep Mask,-1,29.0,2.9,WELCOME10,0.0,paid,meta,2026-01-07 23:34:31+00:00,2026-01-07,2026-01,1.0,29.0
+4611,2,2025-09-27T16:46:46-04:00,hayden.01599@inbox.example.com,US,USD,DEC-005,Woven Storage Basket,-1,54.0,0.0,,0.0,paid,direct,2025-09-27 20:46:46+00:00,2025-09-27,2025-09,1.0,54.0
+3421,1,2025-06-29T19:12:08Z,skyler.01096@example.com,US,USD,BED-008,Silk Sleep Mask,-1,29.0,0.0,,29.0,partially_refunded,email,2025-06-29 19:12:08+00:00,2025-06-29,2025-06,1.0,29.0
+5159,3,2025-12-03 12:44:10,quinn.01848@example.com,US,USD,KIT-001,Stoneware Dinner Plate Set (4),-1,64.0,0.0,,64.0,partially_refunded,email,2025-12-03 17:44:10+00:00,2025-12-03,2025-12,1.0,64.0
+3970,1,2025-09-25T12:10:57-04:00,skyler.01316@example.com,CA,CAD,LGT-003,Linen Lamp Shade,-2,66.99,0.0,,0.0,paid,direct,2025-09-25 16:10:57+00:00,2025-09-25,2025-09,0.7394,99.06481199999999
+16402,1,2026-09-15T03:17:04Z,alex.07480@example.com,US,USD,DEC-003,Soy Candle - Cedar,-1,32.0,0.0,,0.0,paid,meta,2026-09-15 03:17:04+00:00,2026-09-14,2026-09,1.0,32.0
+8768,2,2025-11-30T07:19:50Z,avery.03509@example.org,CA,CAD,KIT-008,Bamboo Utensil Set,-1,29.99,7.5,BFCM25,0.0,paid,referral,2025-11-30 07:19:50+00:00,2025-11-30,2025-11,0.7367,22.093633

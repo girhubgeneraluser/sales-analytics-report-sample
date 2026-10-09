@@ -1,0 +1,133 @@
+PASS  Summary KPI 'Net revenue': workbook=1,452,336.6824  recomputed=1,452,336.7045
+PASS  Summary KPI 'Gross sales': workbook=1,630,749.2388  recomputed=1,630,749.2634
+PASS  Summary KPI 'Discounts': workbook=63,214.3880  recomputed=63,214.3900
+PASS  Summary KPI 'Refunds': workbook=115,198.1684  recomputed=115,198.1688
+PASS  Summary KPI 'Orders': workbook=10,386.0000  recomputed=10,386.0000
+PASS  Summary KPI 'AOV': workbook=139.8360  recomputed=139.8360
+PASS  Summary KPI 'Identified customers': workbook=7,682.0000  recomputed=7,682.0000
+PASS  Summary KPI 'Repeat-customer rate': workbook=0.2344  recomputed=0.2344
+PASS  Summary KPI 'New customers': workbook=7,682.0000  recomputed=7,682.0000
+PASS  Summary KPI 'Ad spend (Meta + Google)': workbook=288,607.2200  recomputed=288,607.2200
+PASS  Summary KPI 'MER (net revenue ÷ ad spend)': workbook=5.0322  recomputed=5.0322
+PASS  Summary KPI 'Blended CAC': workbook=37.5693  recomputed=37.5693
+PASS  Summary KPI 'Meta ROAS': workbook=2.3599  recomputed=2.3599
+PASS  Summary KPI 'Google ROAS': workbook=2.8441  recomputed=2.8441
+PASS  Summary KPI 'Meta CAC': workbook=66.2856  recomputed=66.2856
+PASS  Summary KPI 'Google CAC': workbook=55.6627  recomputed=55.6627
+PASS  Summary KPI 'Refund rate': workbook=0.0735  recomputed=0.0735
+PASS  Summary KPI 'Gross margin %': workbook=0.6063  recomputed=0.6063
+PASS  Monthly sheet has 18 months (found 18)
+PASS  Monthly 2025-04: net revenue & orders match raw recompute
+PASS  Monthly 2025-04: repeat-customer rate 0.0000 matches
+PASS  Monthly 2025-04: ad spend matches
+PASS  Monthly 2025-05: net revenue & orders match raw recompute
+PASS  Monthly 2025-05: repeat-customer rate 0.0549 matches
+PASS  Monthly 2025-05: ad spend matches
+PASS  Monthly 2025-06: net revenue & orders match raw recompute
+PASS  Monthly 2025-06: repeat-customer rate 0.0918 matches
+PASS  Monthly 2025-06: ad spend matches
+PASS  Monthly 2025-07: net revenue & orders match raw recompute
+PASS  Monthly 2025-07: repeat-customer rate 0.1628 matches
+PASS  Monthly 2025-07: ad spend matches
+PASS  Monthly 2025-08: net revenue & orders match raw recompute
+PASS  Monthly 2025-08: repeat-customer rate 0.1835 matches
+PASS  Monthly 2025-08: ad spend matches
+PASS  Monthly 2025-09: net revenue & orders match raw recompute
+PASS  Monthly 2025-09: repeat-customer rate 0.2050 matches
+PASS  Monthly 2025-09: ad spend matches
+PASS  Monthly 2025-10: net revenue & orders match raw recompute
+PASS  Monthly 2025-10: repeat-customer rate 0.2007 matches
+PASS  Monthly 2025-10: ad spend matches
+PASS  Monthly 2025-11: net revenue & orders match raw recompute
+PASS  Monthly 2025-11: repeat-customer rate 0.1567 matches
+PASS  Monthly 2025-11: ad spend matches
+PASS  Monthly 2025-12: net revenue & orders match raw recompute
+PASS  Monthly 2025-12: repeat-customer rate 0.2227 matches
+PASS  Monthly 2025-12: ad spend matches
+PASS  Monthly 2026-01: net revenue & orders match raw recompute
+PASS  Monthly 2026-01: repeat-customer rate 0.4173 matches
+PASS  Monthly 2026-01: ad spend matches
+PASS  Monthly 2026-02: net revenue & orders match raw recompute
+PASS  Monthly 2026-02: repeat-customer rate 0.3586 matches
+PASS  Monthly 2026-02: ad spend matches
+PASS  Monthly 2026-03: net revenue & orders match raw recompute
+PASS  Monthly 2026-03: repeat-customer rate 0.3333 matches
+PASS  Monthly 2026-03: ad spend matches
+PASS  Monthly 2026-04: net revenue & orders match raw recompute
+PASS  Monthly 2026-04: repeat-customer rate 0.3413 matches
+PASS  Monthly 2026-04: ad spend matches
+PASS  Monthly 2026-05: net revenue & orders match raw recompute
+PASS  Monthly 2026-05: repeat-customer rate 0.3057 matches
+PASS  Monthly 2026-05: ad spend matches
+PASS  Monthly 2026-06: net revenue & orders match raw recompute
+PASS  Monthly 2026-06: repeat-customer rate 0.3067 matches
+PASS  Monthly 2026-06: ad spend matches
+PASS  Monthly 2026-07: net revenue & orders match raw recompute
+PASS  Monthly 2026-07: repeat-customer rate 0.3615 matches
+PASS  Monthly 2026-07: ad spend matches
+PASS  Monthly 2026-08: net revenue & orders match raw recompute
+PASS  Monthly 2026-08: repeat-customer rate 0.3168 matches
+PASS  Monthly 2026-08: ad spend matches
+PASS  Monthly 2026-09: net revenue & orders match raw recompute
+PASS  Monthly 2026-09: repeat-customer rate 0.3185 matches
+PASS  Monthly 2026-09: ad spend matches
+PASS  No month has negative net revenue
+PASS  Sum of monthly net revenue = headline net revenue
+PASS  Sum of monthly orders = headline orders
+PASS  Monthly AOV = net revenue ÷ orders
+PASS  Cohort sizes sum to identified customers (7,682 vs 7,682)
+PASS  Every cohort has M0 retention = 100%
+PASS  Cohort grid has one column per month offset (18 vs 18)
+PASS  All cohort retention cells match raw recompute and lie in [0,1] (0 mismatches)
+PASS  Cohort count table sizes = retention table sizes
+PASS  No cohort cell exceeds its cohort size
+PASS  Channel meta: net revenue matches raw recompute
+PASS  Channel meta: ROAS = revenue ÷ spend
+PASS  Channel meta: CAC = spend ÷ new customers
+PASS  Channel meta: spend matches raw recompute
+PASS  Channel google: net revenue matches raw recompute
+PASS  Channel google: ROAS = revenue ÷ spend
+PASS  Channel google: CAC = spend ÷ new customers
+PASS  Channel google: spend matches raw recompute
+PASS  Channel email: net revenue matches raw recompute
+PASS  Channel email: no spend -> ROAS blank (not divided by zero)
+PASS  Channel organic: net revenue matches raw recompute
+PASS  Channel organic: no spend -> ROAS blank (not divided by zero)
+PASS  Channel direct: net revenue matches raw recompute
+PASS  Channel direct: no spend -> ROAS blank (not divided by zero)
+PASS  Channel referral: net revenue matches raw recompute
+PASS  Channel referral: no spend -> ROAS blank (not divided by zero)
+PASS  Channel revenue sums to headline net revenue
+PASS  Channel spend sums to total spend
+PASS  Channel new customers sum to total new customers
+PASS  Monthly paid-channel ROAS = revenue ÷ spend for all 36 rows
+PASS  Monthly paid-channel spend & revenue match raw recompute (0 mismatches)
+PASS  Product net revenue sums to headline
+PASS  No product has negative net revenue
+PASS  Every SKU's net revenue matches raw
+PASS  DQ log clean-row count (20,174) = independent recompute (20,174)
+PASS  DQ log output value = headline net revenue
+PASS  Executive summary carries the sample-project label
+PASS  Exec summary 'Net revenue' = '$1,452,337', recomputed '$1,452,337'
+PASS  Exec summary 'Orders' = '10,386', recomputed '10,386'
+PASS  Exec summary 'AOV' = '$139.84', recomputed '$139.84'
+PASS  Exec summary 'Repeat-customer rate (2+ orders)' = '23.4%', recomputed '23.4%'
+PASS  Exec summary 'Ad spend (Meta + Google)' = '$288,607', recomputed '$288,607'
+PASS  Exec summary 'MER (net revenue ÷ ad spend)' = '5.03x', recomputed '5.03x'
+PASS  Exec summary 'Blended CAC' = '$37.57', recomputed '$37.57'
+PASS  Exec summary 'Meta ROAS / CAC' = '2.36x / $66.29', recomputed '2.36x / $66.29'
+PASS  Exec summary 'Google ROAS / CAC' = '2.84x / $55.66', recomputed '2.84x / $55.66'
+PASS  Exec summary 'Refund rate' = '7.3%', recomputed '7.3%'
+PASS  Exec summary 'Gross margin' = '60.6%', recomputed '60.6%'
+PASS  Exec summary bedding-first repeat rates (30.7% vs 17.8%) match recompute
+PASS  All 18 supporting figures on Summary sheet appear verbatim in exec summary
+
+123/123 checks passed.
+  recomputed Net revenue            1,452,336.7045
+  recomputed Orders                 10,386.0000
+  recomputed AOV                    139.8360
+  recomputed Repeat-customer rate   0.2344
+  recomputed Meta ROAS              2.3599
+  recomputed Google ROAS            2.8441
+  recomputed Blended CAC            37.5693
+ALL CHECKS PASSED

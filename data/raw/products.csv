@@ -1,0 +1,37 @@
+sku,product_title,category,list_price_usd,unit_cost_usd
+KIT-001,Stoneware Dinner Plate Set (4),Kitchen,64.00,22.00
+KIT-002,Cast Iron Skillet 10in,Kitchen,48.00,19.00
+KIT-003,Linen Tea Towels (3),Kitchen,24.00,6.50
+KIT-004,Olivewood Serving Board,Kitchen,58.00,21.00
+KIT-005,Glass Storage Jars (6),Kitchen,39.00,14.00
+KIT-006,Ceramic Pour-Over Set,Kitchen,72.00,30.00
+KIT-007,Copper Measuring Cups,Kitchen,34.00,15.00
+KIT-008,Bamboo Utensil Set,Kitchen,22.00,7.00
+BED-001,Linen Duvet Cover - Queen,Bedding,189.00,68.00
+BED-002,Percale Sheet Set - Queen,Bedding,129.00,41.00
+BED-003,Percale Sheet Set - King,Bedding,149.00,48.00
+BED-004,Waffle Knit Blanket,Bedding,119.00,39.00
+BED-005,Down-Alt Pillow (2),Bedding,79.00,26.00
+BED-006,Linen Pillowcases (2),Bedding,49.00,15.00
+BED-007,Weighted Throw 15lb,Bedding,159.00,71.00
+BED-008,Silk Sleep Mask,Bedding,29.00,9.00
+BAT-001,Turkish Cotton Towel Set,Bath,89.00,28.00
+BAT-002,Waffle Bath Robe,Bath,98.00,36.00
+BAT-003,Teak Bath Mat,Bath,69.00,31.00
+BAT-004,Ceramic Soap Dispenser,Bath,28.00,9.50
+BAT-005,Hand Towels (2),Bath,32.00,9.00
+BAT-006,Shower Curtain - Linen,Bath,59.00,20.00
+DEC-001,Hand-Thrown Vase - Large,Decor,85.00,33.00
+DEC-002,Wool Throw Pillow Cover,Decor,45.00,14.00
+DEC-003,Soy Candle - Cedar,Decor,32.00,8.00
+DEC-004,Soy Candle - Fig,Decor,32.00,8.00
+DEC-005,Woven Storage Basket,Decor,54.00,19.00
+DEC-006,Framed Botanical Print,Decor,76.00,29.00
+DEC-007,Jute Area Rug 5x8,Decor,249.00,118.00
+DEC-008,Brass Picture Frame,Decor,38.00,17.00
+LGT-001,Ceramic Table Lamp,Lighting,139.00,52.00
+LGT-002,Rattan Pendant Shade,Lighting,119.00,47.00
+LGT-003,Linen Lamp Shade,Lighting,49.00,17.00
+LGT-004,Beeswax Taper Candles (6),Lighting,26.00,7.50
+LGT-005,Glass Hurricane Lantern,Lighting,44.00,18.00
+LGT-006,Smart Bulb Starter Kit,Lighting,59.00,41.00
